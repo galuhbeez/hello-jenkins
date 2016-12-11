@@ -1,2 +1,2 @@
 # hello-jenkins
-My super simple app to test out Jenkins. hooray!!
+My super simple app to test out Jenkins. hooray!
